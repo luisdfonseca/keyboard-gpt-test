@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "3F992198-E8F0-4821-B8A2-85C9DF24E0CE"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "31418C0C-4E0D-466B-9BF2-949FD5C2B0C3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "keyboard-extension/DemoKeyboardView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "167"
+            endingLineNumber = "167"
+            landmarkName = "printHello()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E941E265-62B2-4A8F-A6D7-59FEE1C13BD7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "keyboard-extension/DemoKeyboardView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "124"
+            endingLineNumber = "124"
+            landmarkName = "printHello()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E941E265-62B2-4A8F-A6D7-59FEE1C13BD7 - 45f909c554cbb949"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "keyboard_extension.DemoKeyboardView.printHello() -&gt; ()"
+                  moduleName = "keyboard-extension"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/luisfonseca/Projects/keyboard-gpt-test/keyboard-extension/DemoKeyboardView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "181"
+                  endingLineNumber = "181"
+                  offsetFromSymbolStart = "324">
+               </Location>
+               <Location
+                  uuid = "E941E265-62B2-4A8F-A6D7-59FEE1C13BD7 - 45f909c554cbb949"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "keyboard_extension.DemoKeyboardView.printHello() -&gt; ()"
+                  moduleName = "keyboard-extension"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/luisfonseca/Projects/keyboard-gpt-test/keyboard-extension/DemoKeyboardView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "181"
+                  endingLineNumber = "181"
+                  offsetFromSymbolStart = "484">
+               </Location>
+               <Location
+                  uuid = "E941E265-62B2-4A8F-A6D7-59FEE1C13BD7 - 45f909c554cbb949"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "keyboard_extension.DemoKeyboardView.printHello() -&gt; ()"
+                  moduleName = "keyboard-extension"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/luisfonseca/Projects/keyboard-gpt-test/keyboard-extension/DemoKeyboardView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "181"
+                  endingLineNumber = "181"
+                  offsetFromSymbolStart = "328">
+               </Location>
+               <Location
+                  uuid = "E941E265-62B2-4A8F-A6D7-59FEE1C13BD7 - 45f909c554cbb949"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "keyboard_extension.DemoKeyboardView.printHello() -&gt; ()"
+                  moduleName = "keyboard-extension"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/luisfonseca/Projects/keyboard-gpt-test/keyboard-extension/DemoKeyboardView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "181"
+                  endingLineNumber = "181"
+                  offsetFromSymbolStart = "488">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "05689766-0AC7-4BDA-8A66-E7154A91CD9B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "keyboard-extension/DemoKeyboardView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "175"
+            endingLineNumber = "175"
+            landmarkName = "printHello()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
